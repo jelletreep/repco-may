@@ -1,4 +1,4 @@
-# My Project title 2
+# Temporary repository for Repco course
 
 This project template is a demonstration for the RepCo workshop.
 
